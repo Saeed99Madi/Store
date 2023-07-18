@@ -1,0 +1,48 @@
+{
+  "kind": "collectionType",
+  "collectionName": "settings",
+  "info": {
+    "singularName": "setting",
+    "pluralName": "settings",
+    "displayName": "Setting"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "email": {
+      "type": "email"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "phone2": {
+      "type": "string"
+    },
+    "address": {
+      "type": "text"
+    },
+    "facebook": {
+      "type": "text"
+    },
+    "instagram": {
+      "type": "text"
+    },
+    "linkedIn": {
+      "type": "text"
+    },
+    "youtupe": {
+      "type": "text"
+    },
+    "logo": {
+      "type": "text"
+    },
+    "darkLogo": {
+      "type": "text"
+    },
+    "bio": {
+      "type": "text"
+    }
+  }
+}
